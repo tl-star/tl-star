@@ -1,36 +1,14 @@
-# My Web3 dApp
+### Hi, I'm Khalid 👋 — AI-Assisted All-Rounder Developer
 
-A simple decentralized application (dApp) with MetaMask wallet integration — built to demonstrate wallet connection, account detection, and on-chain data reading.
+I solve problems, not just "know languages." I work across Python, Arduino/IoT, Raspberry Pi, NodeMCU, robotics, Android, web scraping, and Web3 — using multiple AI tools (GitHub Copilot, Claude, ChatGPT, DeepSeek, Gemini) to write, debug, and verify code fast, and cross-checking every output myself before it ships.
 
-🔗 **Live Demo:** [Add your GitHub Pages link here]
+**What that means for you:**
+- 🧩 No language is off-limits — if it's solvable, I can take it on and deliver a working, tested fix.
+- 🔍 I don't just paste AI output — I review, test, and debug it until it's production-ready.
+- ⚡ ~10 years building real hardware + software projects: Arduino, Raspberry Pi, NodeMCU, robotics, Android apps, geofencing, web scraping, smart contracts (MetaMask integration), n8n automation.
+- 🛠️ Comfortable working end-to-end in a Linux environment.
+- 🌍 Remote-only, available for bounties, contract work, and ongoing collaboration.
 
-## Features
+**Currently:** open to GitHub bounties, freelance/commission work, and fixing or debugging AI-generated code that others got stuck on.
 
-- Connect to MetaMask wallet
-- Display connected account address
-- Show current network (Chain ID)
-- Read and display wallet balance in real time
-
-## Tech Stack
-
-- HTML5 / CSS3 / JavaScript
-- MetaMask (`window.ethereum`) for wallet connection
-- Ethereum JSON-RPC methods (`eth_requestAccounts`, `eth_chainId`, `eth_getBalance`)
-
-## How to Use
-
-1. Open the live demo link above (or clone this repo and open `index.html` in a browser).
-2. Make sure you have the [MetaMask extension](https://metamask.io/) installed (or use the MetaMask mobile app's built-in browser).
-3. Click **Connect Wallet**.
-4. Approve the connection request in MetaMask.
-5. Your account address, network, and balance will be displayed.
-
-## About the Developer
-
-Self-taught developer with ~10 years of experience across automation, IoT, Android, and Web3 development. I build smart contracts, dApps, and wallet-integrated frontends — available for freelance and long-term remote work.
-
-- Portfolio: https://tl-star.github.io/direct/
-
-## License
-
-Free to use and modify for learning or demo purposes.
+📫 Portfolio: https://tl-star.github.io/direct/
